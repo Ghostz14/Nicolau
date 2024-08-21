@@ -1,7 +1,6 @@
 <div align="center" width="50">
   
-<p><strong>2nd year BCA student. During day, Assisting
-<br>my father at his shop & Coder at night.
+<p><strong>Programmer at Imobzi
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
