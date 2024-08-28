@@ -3,7 +3,7 @@
 <p><strong>Programmer at Imobzi
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify]([https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Gh0stz](https://open.spotify.com/user/31gev6voyt527ozazpfve5qaodhm)) <br>
+[![Spotify](https://open.spotify.com/user/31gev6voyt527ozazpfve5qaodhm) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
